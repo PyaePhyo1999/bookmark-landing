@@ -30,13 +30,13 @@ Users should be able to:
   - The email address is not formatted correctly
 
 ### Screenshot
-![Desktop](<src/assets/Screenshot (82).png>) ![Mobile](<src/assets/Screenshot (83).png>)
+![Desktop](<src/assets/Screenshot (82).png>) ![Mobile](<src/assets/Screenshot (83).png>)  
 
 
 ### Links
 
-- Solution URL: [https://github.com/PyaePhyo1999/bookmark-landing](https://your-solution-url.com)
-- Live Site URL: [https://majestic-macaron-544660.netlify.app/](https://your-live-site-url.com)
+- Solution URL: [git url](https://github.com/PyaePhyo1999/bookmark-landing)
+- Live Site URL: [live url](https://majestic-macaron-544660.netlify.app/)
 
 ## My process
 I try to used React+vite and tailwind css from what I've learned from the -mentor. 
